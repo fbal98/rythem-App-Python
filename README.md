@@ -9,3 +9,7 @@ also the mode argument specifys if the search should be `reduced` or `nreduced` 
 ```python
 findWords(words, endString="ل", mode="reduced")
 ``` 
+
+
+# screenshot:
+![](https://github.com/fbal98/rythem-App-Python/blob/main/1.PNG)
